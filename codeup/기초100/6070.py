@@ -1,4 +1,3 @@
-
 month = int(input())
 
 winter = [12, 1, 2]
